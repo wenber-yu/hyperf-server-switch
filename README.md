@@ -1,7 +1,7 @@
 > 搬运自: [如何让 Hyperf 只启动一个服务](https://zhuanlan.zhihu.com/p/342893609)
 # 安装
 ```bash
-composer require wilbur-yu/hyperf-server-switch
+composer require wenber-yu/hyperf-server-switch
 ```
 # 配置
 config/autoload/server.php
